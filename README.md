@@ -7,6 +7,12 @@ I am working on a new js framework called **NUEVA**
 </div>
 Check that out here https://github.com/codingwith3dv/nueva
 
+##### Note
+*These languages doesn't mean that these are the programming languages that I use everyday*
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwith3dv" />
+</div>
+
 <!--
 **codingwith3dv/codingwith3dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
