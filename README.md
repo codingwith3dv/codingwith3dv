@@ -7,8 +7,7 @@ I am working on a new js framework called **NUEVA**
 </div>
 Check that out here https://github.com/codingwith3dv/nueva
 
-##### Note
-*These languages doesn't mean that these are the programming languages that I use everyday*
+#### Github status
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwith3dv" />
 </div>
