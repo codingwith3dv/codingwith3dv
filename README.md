@@ -10,6 +10,7 @@ Check that out here https://github.com/codingwith3dv/nueva
 #### Github status
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwith3dv" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=codingwith3dv"/>
 </div>
 
 <!--
