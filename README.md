@@ -19,7 +19,7 @@ Currently
 
 #### Where can you find me
 <div align="center">
-
+  <img width="30" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" />
 </div>
 
 #### Github status
