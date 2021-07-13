@@ -1,11 +1,25 @@
 # Hello
 ####  I am codingwith3dv and my real name is unknown
-I am working on a new js framework called **NUEVA**
 
+Currently
+- Working on a project management software called __Prodos__
+- Learning *fastify.js* and *graphql*
+
+#### What I use
 <div align="center">
-  <img src="https://github.com/codingwith3dv/nueva/blob/master/assets/nueva_new.png" width="200" height="200"></img>
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+  <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 </div>
-Check that out here https://github.com/codingwith3dv/nueva
+
+#### Where can you find me
+<div align="center">
+
+</div>
 
 #### Github status
 <div align="center">
