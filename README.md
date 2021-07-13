@@ -13,13 +13,13 @@ Currently
   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img width="30" src="https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/WebGL_100px_June16_180_75.png" />
   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 </div>
 
 #### Where can you find me
 <div align="center">
-  <img width="30" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" />
+  <a href="https://youtube.com/channel/UCS4BRK8LOp2eIhFOhRf4kRg"><img width="30" src="https://raw.githubusercontent.com/codingwith3dv/codingwith3dv/main/assets/youtube_social_icon_white.png"/></a>
+  <a href="https://stackoverflow.com/users/14423984/codingwith3dv"><img width="30" src="http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png" /></a>
 </div>
 
 #### Github status
