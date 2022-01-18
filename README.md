@@ -2,7 +2,7 @@
 ####  I am codingwith3dv and my real name is unknown
 
 Currently
-- Working on an implementation of GraphQL in C++, [CGQL](https://github.com/codingwith3dv/cgql)
+- Working on an implementation of GraphQL in C++, [CGQL](https://github.com/cgql/cgql)
 - Learning more *C++* and linux kernel. :P
 
 #### What I use
