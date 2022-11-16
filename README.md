@@ -2,7 +2,7 @@
 ####  I am codingwith3dv and my real name is unknown
 
 Currently
-- Working on an implementation of GraphQL in C++, [CGQL](https://github.com/cgql/cgql)
+- Working on a json module for redis written in C, [redisjson](https://github.com/codingwith3dv/redisjson)
 - Learning more *C++* and linux kernel. :P
 
 #### What I use
