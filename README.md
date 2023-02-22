@@ -2,8 +2,7 @@
 ####  I am codingwith3dv
 
 Currently
-- Working on a json module for redis written in C, [redisjson](https://github.com/codingwith3dv/redisjson)
-- Learning more *C++* and linux kernel. :P
+- On the grind
 
 #### What I use
 <div align="center">
